@@ -1,7 +1,5 @@
 <div style="width: 100%;">
-  <a href="mailto:mike@mhdigitalsolutions.com">
-    <img src="hi.svg" style="width: 100%;" alt="Click to email me">
-  </a>
+  <a href="mailto:mike@mhdigitalsolutions.com">Reach Out!</a>
 </div>
 
 ---
